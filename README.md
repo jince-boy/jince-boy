@@ -1,4 +1,4 @@
-👏 Hi there , I'm Jince
+<div style="color:#36BCF7">👏 Hi there , I'm Jince</div>
 
 😊 我是一名00后全栈开发
 <div>
