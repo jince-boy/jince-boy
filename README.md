@@ -1,3 +1,4 @@
+<p><img src="images/bg.png" alt="bg"></p>
 <p align="center">👏 Hi there , I'm Jince</p>
 <p align="center">😊 我是一名00后全栈开发</p>
 <div align="center">
